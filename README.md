@@ -24,3 +24,10 @@ The script takes payment details (like UPI ID or payment URL) and generates a QR
 - Pillow (PIL)
 
 ---
+
+## 📦 How to Use
+
+1. Clone this repository
+```bash
+git clone https://github.com/i-am-shobhit/python-take-online-payment-
+qr
