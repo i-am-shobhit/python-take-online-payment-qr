@@ -1,8 +1,7 @@
 # 💳 Create QR Code for Online Payment (Python)
 
 
-This project generates a **QR Code for online payments** using Python.  
-It can be used for UPI payments, custom payment links.
+## This project generates a **QR Code for online payments** using Python.It can be used for UPI payments, custom payment links.
 ---
 
 ## 🔍 Overview
