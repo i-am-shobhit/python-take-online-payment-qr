@@ -27,7 +27,6 @@ The script takes payment details (like UPI ID or payment URL) and generates a QR
 
 ## 📦 How to Use
 
-1. Clone this repository
+1. Clone this repository:
 ```bash
-git clone https://github.com/i-am-shobhit/python-take-online-payment-
-qr
+git clone https://github.com/i-am-shobhit/create-online-payment-qr.git
